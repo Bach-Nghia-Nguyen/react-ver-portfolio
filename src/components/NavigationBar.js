@@ -22,7 +22,7 @@ import {
   Apps,
   ContactMail,
 } from "@material-ui/icons";
-import avatar from "../images/avatar.png";
+import avatar from "../images/profile-photo.jpg";
 
 // CSS STYLES
 const useStyles = makeStyles((theme) => ({
@@ -56,10 +56,12 @@ const menuItems = [
   {
     listIcon: <Apps />,
     listText: "Portfolio",
+    listPath: "/portfolio",
   },
   {
     listIcon: <ContactMail />,
     listText: "Contacts",
+    listPath: "/contacts",
   },
 ];
 
