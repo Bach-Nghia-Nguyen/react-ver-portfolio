@@ -54,21 +54,36 @@ const Portfolio = () => {
                   love and share whatever the dish you are the most proud of
                 </Typography>
               </CardContent>
-              <CardActions>
-                <Button size="small" color="primary">
-                  Share
-                </Button>
-                <a
-                  href="https://cook-yourself.netlify.app/"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <Button size="small" color="primary">
-                    Live Demo
-                  </Button>
-                </a>
-              </CardActions>
             </CardActionArea>
+            <CardActions>
+              <a
+                href="https://github.com/Bach-Nghia-Nguyen/cook-yourself-client"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <Button size="small" color="primary">
+                  Front-end
+                </Button>
+              </a>
+              <a
+                href="https://github.com/Bach-Nghia-Nguyen/cook-yourself-server"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <Button size="small" color="primary">
+                  Back-end
+                </Button>
+              </a>
+              <a
+                href="https://cook-yourself.netlify.app/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <Button size="small" color="primary">
+                  Live Demo
+                </Button>
+              </a>
+            </CardActions>
           </Card>
         </Grid>
 
@@ -91,21 +106,27 @@ const Portfolio = () => {
                   the movie data.
                 </Typography>
               </CardContent>
-              <CardActions>
-                <Button size="small" color="primary">
-                  Share
-                </Button>
-                <a
-                  href="https://nghia-movie-theatre.netlify.app/"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <Button size="small" color="primary">
-                    Live Demo
-                  </Button>
-                </a>
-              </CardActions>
             </CardActionArea>
+            <CardActions>
+              <a
+                href="https://github.com/Bach-Nghia-Nguyen/movie-theatre"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <Button size="small" color="primary">
+                  Source code
+                </Button>
+              </a>
+              <a
+                href="https://nghia-movie-theatre.netlify.app/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <Button size="small" color="primary">
+                  Live Demo
+                </Button>
+              </a>
+            </CardActions>
           </Card>
         </Grid>
 
@@ -128,21 +149,27 @@ const Portfolio = () => {
                   JavaScript. Using the resources fetched by Pexels API
                 </Typography>
               </CardContent>
-              <CardActions>
-                <Button size="small" color="primary">
-                  Share
-                </Button>
-                <a
-                  href="https://pexels-gallery.netlify.app/"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <Button size="small" color="primary">
-                    Live Demo
-                  </Button>
-                </a>
-              </CardActions>
             </CardActionArea>
+            <CardActions>
+              <a
+                href="https://github.com/Bach-Nghia-Nguyen/Pexels-gallery-ver-2"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <Button size="small" color="primary">
+                  Source code
+                </Button>
+              </a>
+              <a
+                href="https://pexels-gallery.netlify.app/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <Button size="small" color="primary">
+                  Live Demo
+                </Button>
+              </a>
+            </CardActions>
           </Card>
         </Grid>
 
@@ -165,24 +192,24 @@ const Portfolio = () => {
                   website in Vietnam
                 </Typography>
               </CardContent>
-              <CardActions>
-                <a
-                  href="https://github.com/Bach-Nghia-Nguyen/itviec-clone"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <Button size="small" color="primary">
-                    Source code
-                  </Button>
-                </a>
-
-                <a href="https://it-viec-cloned-by-nghia.netlify.app/">
-                  <Button size="small" color="primary">
-                    Live Demo
-                  </Button>
-                </a>
-              </CardActions>
             </CardActionArea>
+            <CardActions>
+              <a
+                href="https://github.com/Bach-Nghia-Nguyen/itviec-clone"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <Button size="small" color="primary">
+                  Source code
+                </Button>
+              </a>
+
+              <a href="https://it-viec-cloned-by-nghia.netlify.app/">
+                <Button size="small" color="primary">
+                  Live Demo
+                </Button>
+              </a>
+            </CardActions>
           </Card>
         </Grid>
       </Grid>
